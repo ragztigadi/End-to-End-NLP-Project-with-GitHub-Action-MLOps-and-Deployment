@@ -1,6 +1,6 @@
 # End-to-End NLP Project with GitHub Action, MLOps, and Deployment
 
-![NLP Project](https://your_project_image_url_here)
+
 
 ## Overview
 
